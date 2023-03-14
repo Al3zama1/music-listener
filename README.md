@@ -1,5 +1,7 @@
 # Music Player Application
 
+[Live Site 🌍](https://music-listener.netlify.app/)
+
 ![application view](./assets/app-overview.png)
 
 ## Description
