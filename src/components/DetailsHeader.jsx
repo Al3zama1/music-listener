@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 
 const DetailsHeader = ({ artistId, artistData, songData }) => {
 
-  console.log(artistData?.data[0]?.attributes?.artwork?.url);
   const attributes = artistData?.data[0]?.attributes;
   return (
   <div className='relative w-full flex flex-col'>
